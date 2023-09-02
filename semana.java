@@ -47,3 +47,4 @@ public interface semana {
         scanner.close();
     }
 }
+//Utiliza la sentencia switch para escribir una sentencia de Java que imprima los siete días de la semana

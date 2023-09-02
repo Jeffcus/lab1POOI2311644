@@ -12,3 +12,4 @@ public class par1par2 {
     }
     
 }
+//Escriba una sentencia de Java que imprima true (verdadero), si tanto numA como numB son números positivos.

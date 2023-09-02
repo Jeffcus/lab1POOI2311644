@@ -9,3 +9,4 @@ public class par_impar {
 
     }
 }
+//Escriba una sentencia de Java que imprima true (verdadero), si num es un número impar y positivo

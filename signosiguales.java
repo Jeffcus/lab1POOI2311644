@@ -23,3 +23,4 @@ public class signosiguales {
         scanner.close();
     }
 }
+//Escriba una sentencia de Java que imprima true (verdadero), si numA y numB tienen el mismo signo (+/-)
